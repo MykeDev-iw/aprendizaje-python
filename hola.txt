@@ -1,1 +1,2 @@
 Mi Primer Repositorio Git
+Estpy Aprendiendo el flujo de git, se que me ayudará bastante en proyectos futuros. Seré uno de los mejores primero mi Dios. Amén.
