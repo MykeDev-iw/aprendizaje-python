@@ -8,3 +8,4 @@ Archivo donde estoy documentando lo que estoy aprendiendo, aprendiendo a como co
 
 
 Estoy haciendo un ejercicio de modificar mi README.md desde la web.
+ahora estoy intentando un ejercicio de Qué pasa si haces un cambio local SIN hacer pull primero, e intentas push
