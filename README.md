@@ -11,3 +11,4 @@ Estoy haciendo un ejercicio de modificar mi README.md desde la web.
 
 
 jajaja, como vas mi bro, practicando como siempre.
+ahora estoy intentando un ejercicio de Qué pasa si haces un cambio local SIN hacer pull primero, e intentas push
